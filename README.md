@@ -1,7 +1,6 @@
 # Sobre mim
 - 👋 olá, meu nome é @GiovannaV22
-
-;+1: meu e-mail é @giovanna.militani.bueno@esola.pr.gov.br
+ meu e-mail é @giovanna.militani.bueno@esola.pr.gov.br
 
 - 🌱 estou apredendo a progamar recentemente a linguagem de JavaScript e Scratch 
 
